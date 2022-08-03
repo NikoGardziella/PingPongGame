@@ -8,3 +8,4 @@ To run: ./pong
 
 Player1: W / S
 Player2: Arrowup/down
+Start: Space
